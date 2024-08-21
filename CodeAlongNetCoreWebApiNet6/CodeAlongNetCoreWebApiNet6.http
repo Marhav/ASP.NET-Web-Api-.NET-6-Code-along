@@ -1,0 +1,6 @@
+@CodeAlongNetCoreWebApiNet6_HostAddress = http://localhost:5039
+
+GET {{CodeAlongNetCoreWebApiNet6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
